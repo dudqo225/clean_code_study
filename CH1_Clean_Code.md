@@ -5,7 +5,7 @@
 - 아래 그림은 **좋은 코드** 와 **나쁜 코드** 를 구분짓는 유명한 그림이다.
 - WTFs / min 🤣
 
-![WTFs/m.](CH1.Clean_Code.assets/wtfm.jpg)
+![WTFs/m.](CH1_Clean_Code.assets/wtfm.jpg)
 
 - 책은 크게 세 파트로 나뉜다.
   - Part 1. 클린코드를 쓰는 주요 원리, 패턴, 실습 등
@@ -43,7 +43,7 @@
   - 멤버가 새롭게 추가된 팀은 새 인력이 충원됬으니까 생산성이 늘겠지~ 라는 압박을 받는다.
   - 코드는 깨끗해지지 못하고 나쁜 코드만 계속 쌓여간다.
 
-![image-20210801182109563](CH1.Clean_Code.assets/image-20210801182109563.png)
+![image-20210801182109563](CH1_Clean_Code.assets/image-20210801182109563.png)
 
 #### The Grand Redesign in the Sky 
 
