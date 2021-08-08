@@ -61,3 +61,17 @@ eatMyShorts()
 - 이름이 잘 설정된 class, function, namespace 로 감싸서 Context 를 표현해라.
 - 이 방법으로도 안되면 (prefixing the name) 접두어를 붙일 것.
 
+
+
+- Holy Hand Grenade 성스러운 수류탄
+
+
+
+##### 마지막
+
+- 서로 코드를 공유하는 것을 두려워 하지 말자.!!!
+
+> 코드는 공유할 수록 좋은 것 같다.
+>
+> 영어 원서도 어렵지만, 차근차근 해보자. 2021.08.08 ✨
+
